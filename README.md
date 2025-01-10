@@ -2,8 +2,6 @@
 
 Bem-vindo ao repositório **Colaboração e Markdown**! Este projeto tem como objetivo explorar o uso de Markdown e práticas de colaboração no GitHub.
 
----
-
 ## 📝 Guia de Markdown
 
 Este repositório inclui um guia completo de Markdown para iniciantes, ajudando a melhorar a documentação de projetos.
@@ -201,15 +199,5 @@ Exemplo:
 4. Envie para o branch principal: `git push origin minha-feature`.
 5. Crie um Pull Request.
 
----
-
-## 📬 Contato
-
-Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato.
-
----
-
-
----
 
 
