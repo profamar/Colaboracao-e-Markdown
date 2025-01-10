@@ -80,7 +80,8 @@ ___Texto em Negrito e Itálico___
 Lista Ordenada
 1. Primeiro item  
 2. Segundo item  
-3. Terceiro item  
+3. Terceiro item 
+
 Lista Não Ordenada
 - Primeiro item  
 - Segundo item  
@@ -90,8 +91,7 @@ Lista Não Ordenada
 ## Links  
 Para criar um link no Markdown, use a seguinte sintaxe:  
 
-**Exemplo:**  
-[Markdown Guide](https://www.markdownguide.org/)
+**Exemplo:**[Markdown Guide](https://www.markdownguide.org/)
 
 5️⃣ Tabelas
 Para criar tabelas, use o formato de barras verticais e hífens:
@@ -121,11 +121,15 @@ Use a seguinte sintaxe para criar checkboxes:
  Tarefa pendente
 
 💻 Como Contribuir
--Faça um fork deste repositório.
--Crie um branch para sua nova feature: git checkout -b minha-feature.
--Commit suas mudanças: git commit -m 'Adiciona nova feature'.
--Envie para o branch principal: git push origin minha-feature.
--Crie um Pull Request.
+1-Faça um fork deste repositório.
+
+2-Crie um branch para sua nova feature: git checkout -b minha-feature.
+
+3-Commit suas mudanças: git commit -m 'Adiciona nova feature'.
+
+4-Envie para o branch principal: git push origin minha-feature.
+
+5-Crie um Pull Request.
 
 
 
