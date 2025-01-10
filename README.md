@@ -101,13 +101,12 @@ Use > para criar uma citação:
 Exemplo:
 >A melhor maneira de prever o futuro é criá-lo. – Peter Drucker
 >
->
-"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
+>"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
 
 7️⃣ Linhas Horizontais
-Para criar uma linha horizontal, use três ou mais --- ou ***:
 
+Para criar uma linha horizontal, use três ou mais --- ou ***:
 
 
 💻 Como Contribuir
