@@ -14,7 +14,7 @@ Um recurso completo para iniciantes, focado em melhorar a documentação de proj
 7. [Linhas Horizontais](#linhas-horizontais)  
 
 
-## 📌 Guia Completo de Markdown para Iniciantes
+## 📌 Guia de Markdown para Iniciantes
 
 1️⃣ Títulos
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
