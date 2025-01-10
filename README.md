@@ -24,7 +24,7 @@ Este repositório inclui um guia completo de Markdown para iniciantes, ajudando 
 
 ## 📌 Guia Completo de Markdown para Iniciantes
 
-1️⃣ Títulos
+# 1️⃣ Títulos
 
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
 \# Título Nível 1  
@@ -47,7 +47,7 @@ Visualização:
 
 ###### Título Nível 6
 
-2️⃣ Texto em Negrito e Itálico
+# 2️⃣ Texto em Negrito e Itálico
 
 - **Negrito**: Use dois asteriscos `**` ou dois underlines `__`.
   ```markdown
@@ -102,7 +102,7 @@ ___Texto em Negrito e Itálico___
 | ***Negrito e Itálico*** | `***texto***` ou `___texto___` | ***Texto em Negrito e Itálico*** |
 
 
-3️⃣ Listas
+# 3️⃣ Listas
 
 Lista Ordenada
 1. Primeiro item  
@@ -115,80 +115,36 @@ Lista Não Ordenada
 - Segundo item  
 - Terceiro item  
 
+# 4️⃣ Links e Imagens
 
-4️⃣ Links e Imagens
-
-Links
-[Texto do Link](URL)  
-
-Exemplo:
-Markdown Guide
-
-Imagens
-![Texto Alternativo](URL-da-Imagem)  
-
-5️⃣ Blocos de Código
-
-Inline (em linha)
-Use crases `` para destacar código em linha:
-
-Use o comando `git status` para verificar alterações.  
-
-Exemplo:
-Use o comando git status para verificar alterações.
-
-Bloco de Código
-Use três crases ``` para criar blocos de código:
-
-```python  
-def hello_world():  
-    print("Hello, World!")  
+## Links  
+Para criar um link no Markdown, use a seguinte sintaxe:  
+`[Texto do Link](URL)`
 
 **Exemplo:**  
-```python  
+[Markdown Guide](https://www.markdownguide.org/)
+
+---
+
+## Imagens  
+Para adicionar uma imagem, use a seguinte sintaxe:  
+`![Texto Alternativo](URL-da-Imagem)`
+
+---
+
+# 5️⃣ Blocos de Código
+
+### Inline (em linha)  
+Use crases `` para destacar código em linha:  
+**Exemplo:**  
+Use o comando `git status` para verificar alterações.
+
+---
+
+### Bloco de Código  
+Use três crases \`\`\` para criar blocos de código:
+
+```python
 def hello_world():  
     print("Hello, World!")
-
-6️⃣ Tabelas
-
-| Coluna 1 | Coluna 2 | Coluna 3 |  
-|----------|----------|----------|  
-| Valor A  | Valor B  | Valor C  |  
-| Valor D  | Valor E  | Valor F  |  
-
-7️⃣ Citações
-
-Use > para criar uma citação:
-
-> "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker  
-
-Exemplo:
-
-"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
-
-8️⃣ Linhas Horizontais
-
-Use três ou mais - ou * para criar uma linha horizontal:
-
----  
-
-9️⃣ Checkboxes (Lista de Tarefas)
-
-- [x] Tarefa concluída  
-- [ ] Tarefa pendente  
-
-Exemplo:
-
- Tarefa concluída
- Tarefa pendente
-
-💻 Como Contribuir
-
-1. Faça um fork deste repositório.
-2. Crie um branch para sua nova feature: `git checkout -b minha-feature`.
-3. Commit suas mudanças: `git commit -m 'Adiciona nova feature'`.
-4. Envie para o branch principal: `git push origin minha-feature`.
-5. Crie um Pull Request.
-
-
 
