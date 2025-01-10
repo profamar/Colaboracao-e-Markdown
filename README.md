@@ -95,12 +95,9 @@ Para criar tabelas, use o formato de barras verticais e hífens:
 | Valor D  | Valor E  | Valor F  |  
 
 
-
 6️⃣ Citações
 Use > para criar uma citação:
-Exemplo:
-7️⃣ Citações
-Use > para criar uma citação:
+
 Exemplo:
 Esta é uma citação
 
