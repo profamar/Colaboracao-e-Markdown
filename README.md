@@ -14,6 +14,7 @@ Um recurso completo para iniciantes, focado em melhorar a documentação de proj
 7. [Linhas Horizontais](#linhas-horizontais)  
 
 1️⃣ Títulos
+
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
 \# Título Nível 1  
 \## Título Nível 2  
@@ -36,6 +37,7 @@ Visualização:
 ###### Título Nível 6
 
 2️⃣ Texto em Negrito e Itálico
+
 - **Negrito**: Use dois asteriscos `**` ou dois underlines `__`.
   ```markdown
   **Texto em Negrito**
