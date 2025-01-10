@@ -83,17 +83,18 @@ Lista Não Ordenada
 - Terceiro item
 
 4️⃣ Links 
-## Links  
 Para criar um link no Markdown, use a seguinte sintaxe:  
 
 **Exemplo:**[Markdown Guide](https://www.markdownguide.org/)
 
 5️⃣ Tabelas
 Para criar tabelas, use o formato de barras verticais e hífens:
+| Coluna 1 | Coluna 2 | Coluna 3 |  
+|----------|----------|----------|  
+| Valor A  | Valor B  | Valor C  |  
+| Valor D  | Valor E  | Valor F  |  
 
-Coluna 1	Coluna 2	Coluna 3
-Valor A	Valor B	Valor C
-Valor D	Valor E	Valor F
+
 
 6️⃣ Citações
 Use > para criar uma citação:
