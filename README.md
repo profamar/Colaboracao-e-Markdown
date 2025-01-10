@@ -1,6 +1,6 @@
 # Colaboração e Markdown
 Este projeto visa demonstrar o uso de Markdown e práticas de colaboração no GitHub.
-## 📝 Guia de Markdown
+## 📝 Guia de Markdown para Iniciantesn
 Um recurso completo para iniciantes, focado em melhorar a documentação de projetos.
 
 📖 Índice do Guia
@@ -12,9 +12,6 @@ Um recurso completo para iniciantes, focado em melhorar a documentação de proj
 5. [Tabelas](#tabelas)  
 6. [Citações](#citações)  
 7. [Linhas Horizontais](#linhas-horizontais)  
-
-
-## 📌 Guia de Markdown para Iniciantes
 
 1️⃣ Títulos
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
