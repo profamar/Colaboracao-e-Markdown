@@ -125,7 +125,6 @@ Crie um branch para sua nova feature: git checkout -b minha-feature.
 Commit suas mudanças: git commit -m 'Adiciona nova feature'.
 Envie para o branch principal: git push origin minha-feature.
 Crie um Pull Request.
-less
-Copiar código
+
 
 
