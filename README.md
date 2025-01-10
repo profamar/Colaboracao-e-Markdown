@@ -102,7 +102,7 @@ ___Texto em Negrito e Itálico___
 | ***Negrito e Itálico*** | `***texto***` ou `___texto___` | ***Texto em Negrito e Itálico*** |
 
 
-## 3️⃣ Listas
+# 3️⃣ Listas
 
 Lista Ordenada
 1. Primeiro item  
@@ -116,7 +116,7 @@ Lista Não Ordenada
 - Terceiro item  
 
 
-## 4️⃣ Links e Imagens
+# 4️⃣ Links e Imagens
 
 Links
 [Texto do Link](URL)  
@@ -127,7 +127,7 @@ Markdown Guide
 Imagens
 ![Texto Alternativo](URL-da-Imagem)  
 
-## 5️⃣ Blocos de Código
+# 5️⃣ Blocos de Código
 
 Inline (em linha)
 Use crases `` para destacar código em linha:
@@ -149,14 +149,14 @@ def hello_world():
 def hello_world():  
     print("Hello, World!")
 
-## 6️⃣ Tabelas
+# 6️⃣ Tabelas
 
 | Coluna 1 | Coluna 2 | Coluna 3 |  
 |----------|----------|----------|  
 | Valor A  | Valor B  | Valor C  |  
 | Valor D  | Valor E  | Valor F  |  
 
-## 7️⃣ Citações
+# 7️⃣ Citações
 
 Use > para criar uma citação:
 
@@ -166,13 +166,13 @@ Exemplo:
 
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
-## 8️⃣ Linhas Horizontais
+# 8️⃣ Linhas Horizontais
 
 Use três ou mais - ou * para criar uma linha horizontal:
 
 ---  
 
-## 9️⃣ Checkboxes (Lista de Tarefas)
+# 9️⃣ Checkboxes (Lista de Tarefas)
 
 - [x] Tarefa concluída  
 - [ ] Tarefa pendente  
