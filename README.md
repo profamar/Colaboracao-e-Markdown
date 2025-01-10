@@ -88,7 +88,9 @@ Para criar um link no Markdown, use a seguinte sintaxe:
 **Exemplo:**[Markdown Guide](https://www.markdownguide.org/)
 
 5️⃣ Tabelas
+
 Para criar tabelas, use o formato de barras verticais e hífens:
+
 | Coluna 1 | Coluna 2 | Coluna 3 |  
 |----------|----------|----------|  
 | Valor A  | Valor B  | Valor C  |  
@@ -100,8 +102,6 @@ Use > para criar uma citação:
 
 Exemplo:
 >A melhor maneira de prever o futuro é criá-lo. – Peter Drucker
->
->"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
 
 7️⃣ Linhas Horizontais
