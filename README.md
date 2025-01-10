@@ -54,14 +54,6 @@ Visualização:
   **Texto em Negrito**
   __Texto em Negrito__
 
-
-### 📋 Resumo Visual  
-
-## 2️⃣ Formatação de Texto: Negrito e Itálico  
-
-### 1. **Negrito**  
-Para destacar o texto em **negrito**, use **dois asteriscos** (`**`) ou **dois underlines** (`__`) antes e depois do texto.  
-
 ```markdown  
 **Texto em Negrito**  
 __Texto em Negrito__  
@@ -189,7 +181,6 @@ Exemplo:
 
  Tarefa concluída
  Tarefa pendente
-
 
 ## 💻 Como Contribuir
 
