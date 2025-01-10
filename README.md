@@ -92,14 +92,14 @@ Para criar um link no Markdown, use a seguinte sintaxe:
 **Exemplo:**  
 [Markdown Guide](https://www.markdownguide.org/)
 
-## 5️⃣ Tabelas
+### 5️⃣ Tabelas
 Para criar tabelas, use o formato de barras verticais e hífens:
 
 Coluna 1	Coluna 2	Coluna 3
 Valor A	Valor B	Valor C
 Valor D	Valor E	Valor F
 
-## 6️⃣ Citações
+### 6️⃣ Citações
 Use > para criar uma citação:
 
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
@@ -108,23 +108,23 @@ Exemplo:
 
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
-## 7️⃣ Linhas Horizontais
+### 7️⃣ Linhas Horizontais
 Para criar uma linha horizontal, use três ou mais - ou *:
 
 ou
 
-## 8️⃣ Checkboxes (Lista de Tarefas)
+### 8️⃣ Checkboxes (Lista de Tarefas)
 Use a seguinte sintaxe para criar checkboxes:
 
  Tarefa concluída
  Tarefa pendente
 
-## 💻 Como Contribuir
-Faça um fork deste repositório.
-Crie um branch para sua nova feature: git checkout -b minha-feature.
-Commit suas mudanças: git commit -m 'Adiciona nova feature'.
-Envie para o branch principal: git push origin minha-feature.
-Crie um Pull Request.
+### 💻 Como Contribuir
+-Faça um fork deste repositório.
+-Crie um branch para sua nova feature: git checkout -b minha-feature.
+-Commit suas mudanças: git commit -m 'Adiciona nova feature'.
+-Envie para o branch principal: git push origin minha-feature.
+-Crie um Pull Request.
 
 
 
