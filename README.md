@@ -17,7 +17,7 @@ Um recurso completo para iniciantes, focado em melhorar a documentação de proj
 
 ## 📌 Guia Completo de Markdown para Iniciantes
 
-# 1️⃣ Títulos
+1️⃣ Títulos
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
 \# Título Nível 1  
 \## Título Nível 2  
@@ -39,7 +39,7 @@ Visualização:
 
 ###### Título Nível 6
 
-# 2️⃣ Texto em Negrito e Itálico
+2️⃣ Texto em Negrito e Itálico
 - **Negrito**: Use dois asteriscos `**` ou dois underlines `__`.
   ```markdown
   **Texto em Negrito**
@@ -76,7 +76,7 @@ ___Texto em Negrito e Itálico___
 | *Itálico*            | `*texto*` ou `_texto_`    | *Texto em Itálico*          |
 | ***Negrito e Itálico*** | `***texto***` ou `___texto___` | ***Texto em Negrito e Itálico*** |
 
-# 3️⃣ Listas
+3️⃣ Listas
 Lista Ordenada
 1. Primeiro item  
 2. Segundo item  
@@ -86,7 +86,7 @@ Lista Não Ordenada
 - Segundo item  
 - Terceiro item
 
-# 4️⃣ Links 
+4️⃣ Links 
 ## Links  
 Para criar um link no Markdown, use a seguinte sintaxe:  
 **Exemplo:**  
