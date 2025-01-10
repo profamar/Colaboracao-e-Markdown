@@ -102,11 +102,14 @@ Exemplo:
 
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
+
 7️⃣ Linhas Horizontais
 Para criar uma linha horizontal, use três ou mais --- ou ***:
 
 
+
 💻 Como Contribuir
+
 
 1-Faça um fork deste repositório.
 
