@@ -176,7 +176,7 @@ Use a seguinte sintaxe para criar checkboxes:
  - [ ] Tarefa pendente
 
 
-# 💻 Como Contribuir
+## 💻 Como Contribuir
 
 1. Faça um fork deste repositório.
 2. Crie um branch para sua nova feature: `git checkout -b minha-feature`.
