@@ -24,7 +24,7 @@ Este repositório inclui um guia completo de Markdown para iniciantes, ajudando 
 
 ## 📌 Guia Completo de Markdown para Iniciantes
 
-# 1. Títulos
+# 1️⃣ Títulos
 
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
 \# Título Nível 1  
@@ -47,7 +47,7 @@ Visualização:
 
 ###### Título Nível 6
 
-# 2. Texto em Negrito e Itálico
+# 2️⃣ Texto em Negrito e Itálico
 
 - **Negrito**: Use dois asteriscos `**` ou dois underlines `__`.
   ```markdown
@@ -65,7 +65,7 @@ __Texto em Negrito__
 
 ---  
 
-### 2. *Itálico*  
+- *Itálico*  
 Para formatar o texto em *itálico*, utilize **um asterisco** (`*`) ou **um underline** (`_`) antes e depois do texto.  
 
 ```markdown  
@@ -79,7 +79,7 @@ _Texto em Itálico_
 
 ---  
 
-### 3. ***Negrito e Itálico***  
+- ***Negrito e Itálico***  
 Para combinar **negrito** e *itálico* no mesmo texto, use **três asteriscos** (`***`) ou **três underlines** (`___`) antes e depois do texto.  
 
 ```markdown  
@@ -102,7 +102,7 @@ ___Texto em Negrito e Itálico___
 | ***Negrito e Itálico*** | `***texto***` ou `___texto___` | ***Texto em Negrito e Itálico*** |
 
 
-# 3. Listas
+# 3️⃣ Listas
 
 Lista Ordenada
 1. Primeiro item  
@@ -115,7 +115,7 @@ Lista Não Ordenada
 - Segundo item  
 - Terceiro item  
 
-# 4. Links e Imagens
+# 4️⃣ Links e Imagens
 
 ## Links  
 Para criar um link no Markdown, use a seguinte sintaxe:  
@@ -132,7 +132,7 @@ Para adicionar uma imagem, use a seguinte sintaxe:
 
 ---
 
-# 5. Bloco de Código
+# 5️⃣ Blocos de Código
 Para criar blocos de código, use três crases \```:
 
 ```python
@@ -141,7 +141,7 @@ def hello_world():
 
 ---
 
-### Tabelas
+# 6️⃣ Tabelas
 
 ```markdown
 | Coluna 1 | Coluna 2 | Coluna 3 |
@@ -149,25 +149,26 @@ def hello_world():
 | Valor A  | Valor B  | Valor C  |
 | Valor D  | Valor E  | Valor F  |
 
-# 6. Citações
+# 7️⃣ Citações
+
 Use > para criar uma citação:
 > "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
 Exemplo:
 > "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
-# 7. Linhas Horizontais
+# 8️⃣ Linhas Horizontais
 Para criar uma linha horizontal, use três ou mais - ou *:
 ---
 ou
 ***
 
-# 8. Checkboxes (Lista de Tarefas)
+# 9️⃣ Checkboxes (Lista de Tarefas)
 Use a seguinte sintaxe para criar checkboxes:
 - [x] Tarefa concluída
 - [ ] Tarefa pendente
 
-💻 Como Contribuir
+# 💻 Como Contribuir
 1.Faça um fork deste repositório.
 
 2.Crie um branch para sua nova feature: git checkout -b minha-feature.
