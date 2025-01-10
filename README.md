@@ -99,9 +99,9 @@ Para criar tabelas, use o formato de barras verticais e hífens:
 Use > para criar uma citação:
 
 Exemplo:
-Esta é uma citação
-
 >A melhor maneira de prever o futuro é criá-lo. – Peter Drucker
+>
+>
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
 
