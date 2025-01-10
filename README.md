@@ -12,7 +12,6 @@ Um recurso completo para iniciantes, focado em melhorar a documentação de proj
 5. [Tabelas](#tabelas)  
 6. [Citações](#citações)  
 7. [Linhas Horizontais](#linhas-horizontais)  
-8. [Checkboxes (Lista de Tarefas)](#checkboxes-lista-de-tarefas)
 
 
 ## 📌 Guia Completo de Markdown para Iniciantes
@@ -110,17 +109,11 @@ Exemplo:
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
 7️⃣ Linhas Horizontais
-Para criar uma linha horizontal, use três ou mais - ou *:
+Para criar uma linha horizontal, use três ou mais --- ou ***:
 
-ou
-
-8️⃣ Checkboxes (Lista de Tarefas)
-Use a seguinte sintaxe para criar checkboxes:
-
- Tarefa concluída
- Tarefa pendente
 
 💻 Como Contribuir
+
 1-Faça um fork deste repositório.
 
 2-Crie um branch para sua nova feature: git checkout -b minha-feature.
