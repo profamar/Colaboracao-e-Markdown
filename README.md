@@ -2,19 +2,21 @@
 Este projeto visa demonstrar o uso de Markdown e práticas de colaboração no GitHub.
 ## 📝 Guia de Markdown
 Um recurso completo para iniciantes, focado em melhorar a documentação de projetos.
-## 📖 Índice do Guia
+
+📖 Índice do Guia
 
 1. [Títulos](#títulos)  
 2. [Texto em Negrito e Itálico](#texto-em-negrito-e-itálico)  
 3. [Listas](#listas)  
 4. [Links e Imagens](#links-e-imagens)  
-5. [Blocos de Código](#blocos-de-código)  
-6. [Tabelas](#tabelas)  
-7. [Citações](#citações)  
-8. [Linhas Horizontais](#linhas-horizontais)  
-9. [Checkboxes (Lista de Tarefas)](#checkboxes-lista-de-tarefas)  
+5. [Tabelas](#tabelas)  
+6. [Citações](#citações)  
+7. [Linhas Horizontais](#linhas-horizontais)  
+8. [Checkboxes (Lista de Tarefas)](#checkboxes-lista-de-tarefas)
+
 
 ## 📌 Guia Completo de Markdown para Iniciantes
+
 # 1️⃣ Títulos
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
 \# Título Nível 1  
@@ -36,6 +38,7 @@ Visualização:
 ##### Título Nível 5
 
 ###### Título Nível 6
+
 # 2️⃣ Texto em Negrito e Itálico
 - **Negrito**: Use dois asteriscos `**` ou dois underlines `__`.
   ```markdown
@@ -72,6 +75,7 @@ ___Texto em Negrito e Itálico___
 | **Negrito**          | `**texto**` ou `__texto__`| **Texto em Negrito**        |
 | *Itálico*            | `*texto*` ou `_texto_`    | *Texto em Itálico*          |
 | ***Negrito e Itálico*** | `***texto***` ou `___texto___` | ***Texto em Negrito e Itálico*** |
+
 # 3️⃣ Listas
 Lista Ordenada
 1. Primeiro item  
@@ -80,30 +84,22 @@ Lista Ordenada
 Lista Não Ordenada
 - Primeiro item  
 - Segundo item  
-- Terceiro item  
-# 4️⃣ Links e Imagens
+- Terceiro item
+
+# 4️⃣ Links 
 ## Links  
 Para criar um link no Markdown, use a seguinte sintaxe:  
 **Exemplo:**  
 [Markdown Guide](https://www.markdownguide.org/)
 
-# Para adicionar uma imagem, use a seguinte sintaxe:
-![Texto Alternativo](URL-da-Imagem)
-
-## 5️⃣ Blocos de Código
-Para criar blocos de código, use três crases ```:
-
-```python
-def hello_world():
-    print("Hello, World!")
-## 6️⃣ Tabelas
+## 5️⃣ Tabelas
 Para criar tabelas, use o formato de barras verticais e hífens:
 
 Coluna 1	Coluna 2	Coluna 3
 Valor A	Valor B	Valor C
 Valor D	Valor E	Valor F
 
-## 7️⃣ Citações
+## 6️⃣ Citações
 Use > para criar uma citação:
 
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
@@ -112,12 +108,12 @@ Exemplo:
 
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
-## 8️⃣ Linhas Horizontais
+## 7️⃣ Linhas Horizontais
 Para criar uma linha horizontal, use três ou mais - ou *:
 
 ou
 
-## 9️⃣ Checkboxes (Lista de Tarefas)
+## 8️⃣ Checkboxes (Lista de Tarefas)
 Use a seguinte sintaxe para criar checkboxes:
 
  Tarefa concluída
