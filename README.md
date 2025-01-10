@@ -43,10 +43,6 @@ Visualização:
   ```markdown
   **Texto em Negrito**
   __Texto em Negrito__
-```markdown  
-**Texto em Negrito**  
-__Texto em Negrito__  
-```  
 **Exemplo:**  
 **Texto em Negrito**  
 __Texto em Negrito__  
@@ -101,9 +97,6 @@ Valor D	Valor E	Valor F
 
 6️⃣ Citações
 Use > para criar uma citação:
-
-"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
-
 Exemplo:
 
 "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
