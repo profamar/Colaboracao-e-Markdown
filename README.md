@@ -24,7 +24,7 @@ Este repositório inclui um guia completo de Markdown para iniciantes, ajudando 
 
 ## 📌 Guia Completo de Markdown para Iniciantes
 
-# 1️⃣ Títulos
+# 1. Títulos
 
 Para criar títulos de diferentes níveis no Markdown, você pode usar o símbolo `#` da seguinte forma:
 \# Título Nível 1  
@@ -47,7 +47,7 @@ Visualização:
 
 ###### Título Nível 6
 
-# 2️⃣ Texto em Negrito e Itálico
+# 2. Texto em Negrito e Itálico
 
 - **Negrito**: Use dois asteriscos `**` ou dois underlines `__`.
   ```markdown
@@ -102,7 +102,7 @@ ___Texto em Negrito e Itálico___
 | ***Negrito e Itálico*** | `***texto***` ou `___texto___` | ***Texto em Negrito e Itálico*** |
 
 
-# 3️⃣ Listas
+# 3. Listas
 
 Lista Ordenada
 1. Primeiro item  
@@ -115,7 +115,7 @@ Lista Não Ordenada
 - Segundo item  
 - Terceiro item  
 
-# 4️⃣ Links e Imagens
+# 4. Links e Imagens
 
 ## Links  
 Para criar um link no Markdown, use a seguinte sintaxe:  
@@ -132,55 +132,52 @@ Para adicionar uma imagem, use a seguinte sintaxe:
 
 ---
 
-# 5️⃣ Blocos de Código
+# 5. Bloco de Código
+Para criar blocos de código, use três crases \```:
 
-### Inline (em linha)  
-Use crases `` para destacar código em linha:  
-**Exemplo:**  
-Use o comando `git status` para verificar alterações.
+```python
+def hello_world():
+    print("Hello, World!")
 
 ---
 
-### Bloco de Código  
-Use três crases \`\`\` para criar blocos de código:
+### Tabelas
 
-```python
-def hello_world():  
-    print("Hello, World!")
+```markdown
+| Coluna 1 | Coluna 2 | Coluna 3 |
+|----------|----------|----------|
+| Valor A  | Valor B  | Valor C  |
+| Valor D  | Valor E  | Valor F  |
 
-# 6️⃣ Tabelas
-
-| Coluna 1 | Coluna 2 | Coluna 3 |  
-|----------|----------|----------|  
-| Valor A  | Valor B  | Valor C  |  
-| Valor D  | Valor E  | Valor F  |  
-
-# 7️⃣ Citações
-
+# 6. Citações
 Use > para criar uma citação:
-
-/ > "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
+> "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
 Exemplo:
+> "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 
-"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
+# 7. Linhas Horizontais
+Para criar uma linha horizontal, use três ou mais - ou *:
+---
+ou
+***
 
-# 8️⃣ Linhas Horizontais
-Para criar uma linha horizontal, use três ou mais --- ou ***
-
-# 9️⃣ Checkboxes (Lista de Tarefas)
-
+# 8. Checkboxes (Lista de Tarefas)
 Use a seguinte sintaxe para criar checkboxes:
+- [x] Tarefa concluída
+- [ ] Tarefa pendente
 
- - [x] Tarefa concluída
- - [ ] Tarefa pendente
+💻 Como Contribuir
+1.Faça um fork deste repositório.
+
+2.Crie um branch para sua nova feature: git checkout -b minha-feature.
+
+3.Commit suas mudanças: git commit -m 'Adiciona nova feature'.
+
+4.Envie para o branch principal: git push origin minha-feature.
+
+5.Crie um Pull Request.
 
 
-## 💻 Como Contribuir
 
-1. Faça um fork deste repositório.
-2. Crie um branch para sua nova feature: `git checkout -b minha-feature`.
-3. Commit suas mudanças: `git commit -m 'Adiciona nova feature'`.
-4. Envie para o branch principal: `git push origin minha-feature`.
-5. Crie um Pull Request.
 
