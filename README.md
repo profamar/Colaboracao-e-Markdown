@@ -87,36 +87,41 @@ Para criar um link no Markdown, use a seguinte sintaxe:
 `[Texto do Link](URL)`
 **Exemplo:**  
 [Markdown Guide](https://www.markdownguide.org/)
-## Imagens  
-Para adicionar uma imagem, use a seguinte sintaxe:  
-`![Texto Alternativo](URL-da-Imagem)`
-# 5️⃣ Blocos de Código
-Para criar blocos de código, use três crases \```:
+
+# Para adicionar uma imagem, use a seguinte sintaxe:
+![Texto Alternativo](URL-da-Imagem)
+
+## 5️⃣ Blocos de Código
+Para criar blocos de código, use três crases ```:
+
 ```python
 def hello_world():
     print("Hello, World!")
 
-#6️⃣ Tabelas
+## 6️⃣ Tabelas
 | Coluna 1 | Coluna 2 | Coluna 3 |
 |----------|----------|----------|
 | Valor A  | Valor B  | Valor C  |
 | Valor D  | Valor E  | Valor F  |
 
-#7️⃣ Citações
+## 7️⃣ Citações
 Use > para criar uma citação:
 > "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
 Exemplo:
 > "A melhor maneira de prever o futuro é criá-lo." – Peter Drucker
-#8️⃣ Linhas Horizontais
+
+## 8️⃣ Linhas Horizontais
 Para criar uma linha horizontal, use três ou mais - ou *:
 ---
 ou
 ***
-#9️⃣ Checkboxes (Lista de Tarefas)
+
+## 9️⃣ Checkboxes (Lista de Tarefas)
 Use a seguinte sintaxe para criar checkboxes:
 - [x] Tarefa concluída
 - [ ] Tarefa pendente
-#💻 Como Contribuir
+
+## 💻 Como Contribuir
 1.Faça um fork deste repositório.
 
 2.Crie um branch para sua nova feature: git checkout -b minha-feature.
