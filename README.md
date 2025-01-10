@@ -35,10 +35,14 @@ Use o símbolo # para criar títulos de diferentes níveis:
 ##### Título Nível 5  
 ###### Título Nível 6  
 
-Exemplo:
-Título Nível 1
-Título Nível 2
-Título Nível 3
+2️⃣ Texto em Negrito e Itálico
+Negrito: Use dois asteriscos ** ou dois underlines __.
+Itálico: Use um asterisco * ou um underline _.
+Negrito e Itálico: Combine três asteriscos ***.
+**Texto em Negrito**  
+*Texto em Itálico*  
+***Texto em Negrito e Itálico***  
+
 
 
 ---
