@@ -1,4 +1,5 @@
-# Colaboração e Markdown
+# Colaboração e Aplicação do Markdown no GitHub
+
 Este projeto tem como objetivo ilustrar a aplicação do Markdown e a adoção de práticas colaborativas no GitHub, promovendo organização e eficiência no desenvolvimento de projetos.
 ## 📝 Guia de Markdown para Iniciantes
 Um recurso completo para iniciantes, focado em melhorar a documentação de projetos.
