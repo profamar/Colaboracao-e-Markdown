@@ -122,5 +122,14 @@ Para criar uma linha horizontal, use três ou mais --- ou ***:
 
 5-Crie um Pull Request.
 
+---
+
+## 📄 Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo LICENSE para mais detalhes.
+
+---
+📧 Contato
+Para dúvidas ou sugestões, entre em contato pelo LinkedIn: [Márcia Soares](https://www.linkedin.com/in/márcia-soares-236974256)
+
 
 
