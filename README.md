@@ -1,8 +1,7 @@
-# Colaboração e Aplicação do Markdown no GitHub
+# Desafio de Projeto: Colaboração e Markdown no GitHub
+Este desafio, parte do curso Formação GitHub Certification da DIO, ensina como usar Markdown e práticas colaborativas no GitHub para organizar e documentar projetos de forma eficiente. Para isso, inclui um guia simples e prático que ajuda iniciantes a criar documentações claras e bem estruturadas.
 
-Este projeto tem como objetivo ilustrar a aplicação do Markdown e a adoção de práticas colaborativas no GitHub, promovendo organização e eficiência no desenvolvimento de projetos.
 ## 📝 Guia de Markdown para Iniciantes
-Um recurso completo para iniciantes, focado em melhorar a documentação de projetos.
 
 📖 Índice do Guia
 
