@@ -107,6 +107,7 @@ Exemplo:
 
 Para criar uma linha horizontal, use três ou mais --- ou ***:
 
+![Diagrama do Projeto](https://github.com/seu-usuario/seu-repositorio/blob/main/diagrama.png)
 
 💻 Como Contribuir
 
